@@ -1,6 +1,6 @@
 // pages/category.js
 export default function CategoryPage() {
-  return <div>This is the Category Page</div>;
+  return <div>Category Page Coming Soon</div>;
 }
 export default function PageName() {
   return <div>Page content</div>;
